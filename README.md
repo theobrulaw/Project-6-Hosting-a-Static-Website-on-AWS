@@ -1,4 +1,4 @@
-# Project 5 Building a Custom VPC from Scratch
+# Project 5: Building a Custom VPC from Scratch
 
 ## Objective
 Briefly describe what this lab demonstrates and why it matters in a real-world
