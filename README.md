@@ -1,35 +1,24 @@
-# Project 5: Building a Custom VPC from Scratch
+# Project 6: Hosting a Static Website on AWS
 
 ## Objective
-Briefly describe what this lab demonstrates and why it matters in a real-world
-cloud, DevOps, or security context.
+
+This lab demonstrates how to host a highly available, cost-effective static website on AWS using Amazon S3, Amazon CloudFront, and Amazon Route 53 with SSL/TLS security.
+
+The project reflects real-world cloud architecture used for fast global content delivery, minimal operational overhead, and secure access to static web applications.
+
+---
 
 ## Architecture / Environment Overview
-Describe the environment, services, VMs, networking mode, or cloud components
-used in this lab.
 
-## Prerequisites
-- Tools required
-- Accounts or access needed
-- Prior knowledge assumed
+The environment consists of:
 
-## Steps Performed
-1. Step-by-step actions taken
-2. Commands executed or configurations applied
-3. Key decisions or trade-offs made
+- Amazon S3 bucket configured for static website hosting  
+- Amazon CloudFront distribution for global content delivery  
+- AWS Certificate Manager (ACM) SSL/TLS certificate  
+- Amazon Route 53 for custom domain DNS routing  
+- Public DNS access to CloudFront endpoints  
 
-## Validation & Verification
-Describe how you confirmed the lab worked:
-- Commands
-- Logs
-- Screenshots
-- Outputs
+### Content Delivery Flow
 
-## Security & Operational Considerations
-- Security risks addressed
-- Hardening steps applied
-- Operational trade-offs
 
-## Lessons Learned
-What worked well, what broke, and what you would do differently next time.
 
