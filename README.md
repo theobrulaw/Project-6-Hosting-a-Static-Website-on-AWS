@@ -65,7 +65,7 @@ The deployment was validated by:
 - Custom domain resolving correctly  
 - HTTPS connection verified with valid certificate  
 - Fast load times from multiple locations
-- Executed/tested multiple invalidations in CloudFront at edge locations  
+- Executed/tested multiple invalidations in CloudFront clearing cache at Edge Locations  
 
 ### Key Observations
 
