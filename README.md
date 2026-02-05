@@ -112,3 +112,18 @@ The deployment was validated by:
 Hosted a secure, globally distributed static website using Amazon S3, CloudFront, and Route 53 with SSL/TLS encryption for fast and cost-effective content delivery.
 
 This project demonstrates modern serverless web hosting architecture on AWS.
+
+---
+## Labs Index
+See [LABS_INDEX.md](LABS_INDEX.md) for the full list of labs and instructions.
+
+## Repository Structure
+
+```text
+Project 6 Hosting a Static Website/
+
+├── screenshots/
+└── documentation/
+# Project 6 Hosting a Static Website
+Hosted a static website using S3, Route 53, and CloudFront with SSL for cost-effective, secure delivery.
+
